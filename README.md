@@ -57,11 +57,6 @@ During the first month of my internship I was given the responsibility of deigni
 - Whilst at Makers Academy I implemented a feedback system used by my cohort each day to facilitate collaboratiion.
 
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (July - October 2017)
