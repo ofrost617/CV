@@ -25,7 +25,6 @@ Project | Description | When | Technologies |
 [Chitter Challenge](https://github.com/ofrost617/takeaway-challenge) | Rebuilding twitter | Week4 | Ruby, RSpec, Sinatra, Capybara, PostgreSQL, DataMapper | 
 
 ## Skills
-leadership, responsible? reliable? fast learner, drive/determination, analytical mind
 
 #### Communication
 
