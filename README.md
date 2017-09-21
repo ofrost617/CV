@@ -8,8 +8,6 @@ After completing a BSc in Biomedical Sciences, I moved into the world of constru
 
 I gained so much from this role, but due to a lack of development opportunities and a yearning to get back to my scientific roots, I was drawn to the world of software development, and subsequently Makers Academy. 
 
-* Necessary? Makers is an intensive 12 week coding bootcamp which focuses on developing the key skills required to be a successful developer such as Test Driven Development, Object Oriented Programming, Pair Programming and high quality code, as well as a solid grounding in several languages, frameworks and libraries.
-
 I am passionate about learning in any capacity, and in particular anything related to tech. I also enjoy disseminating what I have learned with others through discussion with passionate developers, project work and presenting.
 
 
