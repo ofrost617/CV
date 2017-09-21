@@ -4,7 +4,7 @@
 
 A full-stack developer in training with an ever curious mind and a passion for problem solving.
 
-After completing a BSc in Biomedical Sciences, I moved into the world of construction, where following a 6 month internship, I became the Skills and Employment manager for a large London Transport project. This challenging and varied role allowed me to learn and develop ... and the level of responsiblity I undertook gave me the opportunity to adapt to new situations outside of my comfort zone at every turn.
+After completing a BSc in Biomedical Sciences, I moved into the world of construction, where following a 6 month internship, I became the Skills and Employment manager for a large London Transport project. This challenging and varied role allowed me to learn and develop rapidly and the level of responsiblity I undertook gave me the opportunity to adapt to new situations outside of my comfort zone at every turn.
 
 I gained so much from this role, but due to a lack of development opportunities and a yearning to get back to my scientific roots, I was drawn to the world of software development, and subsequently Makers Academy. 
 
